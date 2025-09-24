@@ -177,3 +177,70 @@ Support kuat = banyak candlestick mantul di level itu.
 Resistance kuat = banyak candlestick mental di level itu.
 
 Gunakan kombinasi dengan indikator (EMA, RSI, MACD) biar lebih akurat.
+
+
+
+📌 Apa itu Chart Pattern?
+
+Chart pattern = bentuk-bentuk khas yang terbentuk dari candlestick di grafik.
+Pola ini muncul karena psikologi pasar (tarik-menarik antara pembeli & penjual).
+
+➡️ Dengan mengenali pola ini, kita bisa prediksi arah harga berikutnya.
+
+🏗️ Jenis Chart Pattern
+
+Ada 2 kategori utama:
+
+1. Continuation Pattern (pola penerusan tren)
+
+Artinya harga kemungkinan melanjutkan tren yang sedang berjalan.
+
+Flag & Pennant
+
+Flag = seperti bendera (kecil miring).
+
+Pennant = segitiga kecil setelah tren kuat.
+
+Biasanya muncul setelah harga naik/turun tajam → istirahat sebentar → lanjut searah tren.
+
+Ascending Triangle
+
+Garis resistance datar, support menanjak.
+
+Biasanya bullish continuation → harga lanjut naik setelah breakout.
+
+2. Reversal Pattern (pola pembalikan arah)
+
+Artinya harga kemungkinan berbalik arah dari tren sebelumnya.
+
+Double Top
+
+Bentuk huruf “M”.
+
+Harga gagal tembus resistance dua kali → tanda harga akan turun.
+
+Double Bottom
+
+Bentuk huruf “W”.
+
+Harga gagal tembus support dua kali → tanda harga akan naik.
+
+Head & Shoulders
+
+Ada 3 puncak (bahu kiri, kepala, bahu kanan).
+
+Biasanya tanda tren naik akan berbalik jadi turun.
+
+Inverse Head & Shoulders
+
+Kebalikan dari di atas → tanda tren turun akan berbalik naik.
+
+📊 Cara Pakai Chart Pattern dalam Day Trading
+
+Identifikasi pola → lihat formasi candle.
+
+Tunggu konfirmasi → jangan entry sebelum breakout/ breakdown.
+
+Target harga → biasanya sepanjang tinggi pola (misalnya tinggi double top = potensi penurunan harga setelah tembus neckline).
+
+Kombinasi dengan S/R → makin akurat kalau pola muncul di area support/resistance.
