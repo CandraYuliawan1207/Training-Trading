@@ -1,0 +1,179 @@
+📚 Hari 2 – Indikator Teknikal Dasar untuk Day Trading
+🎯 Tujuan Hari Ini:
+
+Paham fungsi indikator teknikal dasar.
+
+Bisa pasang indikator di chart (TradingView/MetaTrader).
+
+Belajar kombinasi candlestick + indikator → sinyal entry/exit lebih kuat.
+
+🛠️ Bagian 1 – Apa itu Indikator?
+
+Indikator = alat bantu di chart untuk membaca pergerakan harga.
+
+Indikator tidak meramal masa depan, hanya membantu kita melihat tren & momentum pasar.
+
+👉 Jadi candlestick = bahasa pasar.
+👉 Indikator = kacamata untuk memperjelas cerita candlestick.
+
+🛠️ Bagian 2 – 3 Indikator Utama (Wajib Pemula Kuasai)
+1. Moving Average (MA)
+
+Fungsinya: melihat tren harga (naik, turun, atau datar).
+
+Jenis:
+
+SMA (Simple Moving Average) → rata-rata biasa.
+
+EMA (Exponential Moving Average) → lebih responsif (lebih dipakai trader).
+
+📌 Cara pasang (di TradingView):
+
+Klik “Indicators” → ketik “Moving Average Exponential”.
+
+Pilih EMA.
+
+Atur periode jadi 20 dan 50 (EMA20 & EMA50).
+
+📖 Aturan Membaca:
+
+Kalau harga di atas EMA20 & EMA50 → tren naik.
+
+Kalau harga di bawah EMA20 & EMA50 → tren turun.
+
+Kalau EMA20 memotong EMA50 ke atas → sinyal buy.
+
+Kalau EMA20 memotong EMA50 ke bawah → sinyal sell.
+
+2. Relative Strength Index (RSI)
+
+Fungsinya: melihat kekuatan pasar (apakah sudah terlalu naik atau terlalu turun).
+
+Skala: 0 – 100.
+
+Batas penting:
+
+Di atas 70 → Overbought (harga sudah terlalu tinggi, bisa koreksi turun).
+
+Di bawah 30 → Oversold (harga sudah terlalu rendah, bisa naik).
+
+📌 Cara pasang:
+
+Klik “Indicators” → ketik “RSI”.
+
+Biarkan default (14).
+
+📖 Aturan Membaca:
+
+Kalau RSI turun ke <30 → peluang harga naik.
+
+Kalau RSI naik ke >70 → peluang harga turun.
+
+3. MACD (Moving Average Convergence Divergence)
+
+Fungsinya: membaca momentum & arah tren.
+
+Terdiri dari:
+
+Garis MACD (biru/oranye).
+
+Garis Sinyal.
+
+Histogram (batang merah/hijau).
+
+📌 Cara pasang:
+
+Klik “Indicators” → ketik “MACD”.
+
+Biarkan default.
+
+📖 Aturan Membaca:
+
+Kalau garis MACD memotong garis sinyal ke atas → bullish (buy).
+
+Kalau garis MACD memotong garis sinyal ke bawah → bearish (sell).
+
+Histogram hijau makin tinggi → momentum naik kuat.
+
+Histogram merah makin rendah → momentum turun kuat.
+
+🛠️ Bagian 3 – Kombinasi Candlestick + Indikator
+
+📖 Contoh skenario:
+
+Harga sedang naik, candle bentuk Hammer → ada potensi reversal naik.
+
+RSI masih di bawah 70 → masih aman untuk buy.
+
+EMA20 di atas EMA50 → tren memang naik.
+
+👉 Hasil: sinyal buy lebih valid (karena candlestick & indikator sejalan).
+
+✨ Latihan Praktik Hari 2 (30 menit)
+
+Buka BTC/USDT atau EUR/USD di TradingView.
+
+Pasang: EMA20, EMA50, RSI, dan MACD.
+
+Amati:
+
+Apakah harga di atas/bawah EMA?
+
+Apakah RSI mendekati 30 atau 70?
+
+Apakah MACD menunjukkan momentum naik/turun?
+
+Catat minimal 2 sinyal buy dan 2 sinyal sell yang kamu temukan hari ini.
+
+
+📌 Apa itu Support & Resistance?
+
+Support (Penopang Harga)
+
+Support = area harga di mana pembeli cenderung kuat sehingga harga susah turun lebih rendah.
+
+Bisa dibilang “lantai” harga.
+
+Kalau harga turun ke level support → sering mantul naik lagi.
+
+👉 Contoh: harga Bitcoin turun ke $40,000 lalu mantul naik → $40,000 itu support.
+
+Resistance (Penghalang Harga)
+
+Resistance = area harga di mana penjual cenderung kuat sehingga harga susah naik lebih tinggi.
+
+Bisa dibilang “plafon” harga.
+
+Kalau harga naik ke level resistance → sering mental turun lagi.
+
+👉 Contoh: harga Ethereum naik ke $3,000 lalu turun lagi → $3,000 itu resistance.
+
+Kenapa penting buat Day Trader?
+
+Support & Resistance adalah zona entry & exit favorit.
+
+Bisa jadi tempat kita beli di support, jual di resistance.
+
+Kalau support jebol → harga bisa turun lebih jauh.
+
+Kalau resistance tembus → harga bisa naik lebih tinggi.
+
+📊 Cara Menentukan Support & Resistance di TradingView
+
+Buka chart candlestick (misalnya BTC/USDT).
+
+Pilih timeframe sesuai kebutuhan (untuk Day Trading biasanya 5 menit, 15 menit, atau 1 jam).
+
+Cari titik harga yang sering mantul (naik-turun berulang kali di level yang mirip).
+
+Tarik garis horizontal di area itu → itu jadi support atau resistance.
+
+Tandai minimal 2–3 area support & resistance biar ada gambaran range harga.
+
+🔑 Tips Praktis:
+
+Support kuat = banyak candlestick mantul di level itu.
+
+Resistance kuat = banyak candlestick mental di level itu.
+
+Gunakan kombinasi dengan indikator (EMA, RSI, MACD) biar lebih akurat.

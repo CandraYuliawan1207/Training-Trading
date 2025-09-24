@@ -1,0 +1,52 @@
+📚 Hari 1 – Materi 3: Pola Candlestick Dasar (Fundamental)
+
+Candlestick punya banyak pola, tapi untuk pemula cukup kuasai 4 pola utama dulu.
+Kita ambil contoh di timeframe 1D (1 hari) biar jelas.
+
+1. Doji (Keraguan Pasar)
+
+📌 Ciri-ciri:
+
+Body sangat kecil (Open ≈ Close).
+
+Shadow atas & bawah bisa panjang atau pendek.
+
+📖 Arti:
+Pasar ragu-ragu → pembeli & penjual sama kuat.
+Biasanya tanda potensi pembalikan arah atau harga mau konsolidasi.
+
+2. Hammer (Palu)
+
+📌 Ciri-ciri:
+
+Body kecil di atas.
+
+Shadow bawah panjang (2x lebih panjang dari body).
+
+📖 Arti:
+Pembeli mulai melawan penjual → tanda potensi harga naik setelah turun (reversal bullish).
+
+3. Shooting Star (Bintang Jatuh)
+
+📌 Ciri-ciri:
+
+Body kecil di bawah.
+
+Shadow atas panjang.
+
+📖 Arti:
+Penjual mulai melawan pembeli → tanda potensi harga turun setelah naik (reversal bearish).
+
+4. Engulfing (Menelan)
+
+📌 Ciri-ciri:
+
+Ada 2 candle.
+
+Candle kedua lebih besar dan menelan candle pertama.
+
+📖 Arti:
+
+Bullish Engulfing → harga kemungkinan naik.
+
+Bearish Engulfing → harga kemungkinan turun.
