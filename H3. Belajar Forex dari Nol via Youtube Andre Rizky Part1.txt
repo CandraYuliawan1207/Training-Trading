@@ -1,0 +1,22 @@
+TRAINING TRADING FOREX DARI NOL BARENG RIZKY
+1. Nama assets adalah gabungan dua komponan apa terhadap apa, contoh : EURUSD -> EUR/USD (Euro terhadap US Dollar).
+
+2. Waktu trading terbaik berdasarkan sessi
+- London : 14:00 - 23:00 / Sangat tinggi
+- New York : 19:00 - 04:00 / Sangat tinggi
+- Tokyo (Asia) : 06:00 - 15:00 / Sedang
+- Sydney : 04:00 - 13:00 / Rendah (sesi pembuka market)
+
+3. Management lotsize bisa di hitung terlebih dahulu dengan lotsize calculator, berapa modal awal, risk percentage, dan lotsize / unit normal yang harus di gunakan.
+-Minor = Candle history sedang ngambang tidak baik baik saja -> lebih baik pakai lotsize kecil di bawah normal lotsize
+-Normal = Candle bisa terbaca normal dengan analisa tajam (misal ketika kondisi di bawah buy sebelum naik ke atas) -> pakai lotsize normal dengan perbandingan minimal
+risk to rewardnya 1:1.5
+-Momentum = Candle history bagus momentum bagus, tahan sedikit lama holding period (waktu pembiaran saat setelah entry) agar profit semakin naik -> pakai lotsize
+tinggi dari lotsize normal.
+
+4. ATURAN TRADING FOREX -> Jurnal Trading
+- Jumlah Open / Day -> untuk pemula usahakan jangan lebih 1x dalam sehari untuk konsistensi (sangat penting)
+- Lotsize -> 0.01 resiko kecil, cocok untuk pemula (kalau modal kecil)
+- Winrate -> Winrate kecil - Risk to Reward harus gede diatas 1:2 (berhubungan dengan RtR)
+- Risk to Reward (RtR) -> Normalnya bagi pemula harus wajib profit di 1:1.5 -> semakin banyak modal coba naikin winrate dulu.
+
